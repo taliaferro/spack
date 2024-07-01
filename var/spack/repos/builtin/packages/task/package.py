@@ -14,6 +14,7 @@ class Task(CMakePackage):
 
     license("MIT")
 
+    version("3.0.2", sha256="633b76637b0c74e4845ffa28249f01a16ed2c84000ece58d4358e72bf88d5f10")
     version("3.0.0", sha256="30f397081044f5dc2e5a0ba51609223011a23281cd9947ea718df98d149fcc83")
     version("2.6.2", sha256="b1d3a7f000cd0fd60640670064e0e001613c9e1cb2242b9b3a9066c78862cfec")
     version("2.5.1", sha256="d87bcee58106eb8a79b850e9abc153d98b79e00d50eade0d63917154984f2a15")
